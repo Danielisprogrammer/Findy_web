@@ -30,11 +30,6 @@ Dossier complémentaire :
 
 ## 🖼️ Aperçu
 
-> Exemple de la page d’accueil :
->
-> /home/daniel/Images/Captures d’écran/Capture d’écran du 2025-10-28 11-16-24.png
-
-*(Tu peux ajouter une capture d’écran de ton projet ici.)*
 
 ---
 
@@ -42,7 +37,6 @@ Dossier complémentaire :
 
 - **HTML5** – Structure du contenu  
 - **CSS3** – Mise en page et design  
-- *(Optionnel : tu peux ajouter JavaScript ou d’autres si tu en ajoutes plus tard)*
 
 ---
 
@@ -52,7 +46,7 @@ Pour exécuter le projet localement :
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/<ton-nom-utilisateur>/Findy_web.git
+git clone https://github.com/<Danielisprogrammer>/Findy_web.git
 
 # Ouvrir le dossier
 cd Findy_web

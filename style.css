@@ -110,3 +110,22 @@ header a:hover {
 .content .img {
     padding-right: 50rem;
 }
+
+/* Places Page Styles */
+.contenair_places {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    flex-direction: column;
+    
+}
+.places_text {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 3rem;
+    font-weight: bold;
+    margin-left: 10rem;
+}
+.contenair_places img {
+    margin-left: 6rem;
+}
